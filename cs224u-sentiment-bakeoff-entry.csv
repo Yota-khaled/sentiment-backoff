@@ -1,0 +1,13 @@
+sentence,label,dataset,prediction
+The food was absolutely delightful and the service was impeccable.,positive,bakeoff,positive
+I was thoroughly disappointed with my experience at this restaurant.,negative,bakeoff,negative
+"The meal was okay, nothing special but not bad either.",neutral,bakeoff,neutral
+Best pizza I've ever had in my life! Will definitely come back.,positive,bakeoff,positive
+The waiter was rude and the food arrived cold.,negative,bakeoff,negative
+"An average experience, the ambiance was fine but food was mediocre.",neutral,bakeoff,neutral
+a movie that does n't believe in wasting the audience 's time .,positive,sst3,positive
+the film is too slick to believe and too manipulative to care about .,negative,sst3,negative
+it 's a decent enough film that lacks the kind of personality to make it stand out .,neutral,sst3,neutral
+a genuinely funny and touching film that earns its big emotions .,positive,sst3,positive
+"dull , lifeless and an insult to the original .",negative,sst3,negative
+an amiable but forgettable piece of mainstream entertainment .,neutral,sst3,neutral
